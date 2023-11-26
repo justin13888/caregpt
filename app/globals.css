@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: #f8f8f8;
+  background: #36454f;
+}
+
+body input,
+body textarea {
+  color: black;
+}
+
+a {
+  color: #2d7bd4;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+}
+
+p {
+  margin: 8px 0;
+}
+
+code {
+  color: #ffa500;
+}
+
+li {
+  padding: 4px;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+.markdown-div table {
+  border-collapse: collapse;
+}
+
+.markdown-div td,
+.markdown-div th {
+  border: 1px solid #ccc;
+  padding: 5px;
+}

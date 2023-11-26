@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/.next": true,
+        "**/docs": true
+    },
+    "css.lint.unknownAtRules": "ignore"
+}
