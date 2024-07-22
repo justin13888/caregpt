@@ -1,6 +1,6 @@
 # 👩‍🦰 CareGPT
 
-A RAG ChatBot for Employee Care at a fictitious company called Techcom.
+A RAG ChatBot for Employee Care
 
 ### Prerequisites
 
